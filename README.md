@@ -25,7 +25,7 @@ Laravel CMS
 
 - 📧 Email: [nakornsoft@example.com](mailto:nakhonsoft@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/nakornsoft](https://www.linkedin.com/in/nakornsoft)
-- 🌐 Website: [nakornsoft.dev](https://www.nakornsoft.com)
+- 🌐 Website: [nakornsoft.com](https://www.nakornsoft.com)
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
 
