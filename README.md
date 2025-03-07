@@ -18,7 +18,7 @@ I am a passionate software developer with a keen interest in open-source project
 
 Here are some of the projects I've been working on:
 
-### Project 1: [Project Name](https://github.com/nakornsoft/bitgrid)
+### Laravel CMS: [Bitgrid](https://github.com/nakornsoft/bitgrid)
 Laravel CMS
 
 ## Get in Touch
