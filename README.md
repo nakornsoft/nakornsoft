@@ -23,7 +23,7 @@ Laravel CMS
 
 ## Get in Touch
 
-- 📧 Email: [nakornsoft@example.com](mailto:nakhonsoft@gmail.com)
+- 📧 Email: [nakornsoft@gmail.com](mailto:nakhonsoft@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/nakornsoft](https://www.linkedin.com/in/nakornsoft)
 - 🌐 Website: [nakornsoft.com](https://www.nakornsoft.com)
 
