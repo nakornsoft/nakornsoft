@@ -27,7 +27,7 @@ Laravel cms with modular and like ERP system project
 - 💼 LinkedIn: [linkedin.com/in/nakornsoft](https://www.linkedin.com/in/nakornsoft)
 - 🌐 Website: [nakornsoft.com](https://www.nakornsoft.com)
 
-## Support us
+## Support Me
 
 - [Paypal](https://www.paypal.me/nakornsoft)
 
