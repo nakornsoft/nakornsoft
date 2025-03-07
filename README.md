@@ -19,13 +19,17 @@ I am a passionate software developer with a keen interest in open-source project
 Here are some of the projects I've been working on:
 
 ### Laravel CMS: [Bitgrid](https://github.com/nakornsoft/bitgrid)
-Laravel CMS
+Laravel cms with modular and like ERP system project
 
 ## Get in Touch
 
 - 📧 Email: [nakornsoft@gmail.com](mailto:nakhonsoft@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/nakornsoft](https://www.linkedin.com/in/nakornsoft)
 - 🌐 Website: [nakornsoft.com](https://www.nakornsoft.com)
+
+## Support us
+
+- [Paypal](https://www.paypal.me/nakornsoft)
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
 
