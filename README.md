@@ -18,7 +18,7 @@ I am a passionate software developer with a keen interest in open-source project
 
 Here are some of the projects I've been working on:
 
-### Laravel CMS: [Bitgrid](https://github.com/nakornsoft/bitgrid)
+### Laravel CMS: [Codedium](https://github.com/nakornsoft/codedium)
 Laravel cms with modular and like ERP system project
 
 ## Get in Touch
