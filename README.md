@@ -1,4 +1,4 @@
-# Hi there, I'm Nakornsoft 👋
+# Hi there, I'm Zairosoft 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/zairosoft?label=Follow&style=social)](https://github.com/zairosoft)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/zairosoft)
